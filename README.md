@@ -5,7 +5,7 @@
 Inspired by [Dex Horthy's "No Vibes Allowed"](https://www.youtube.com/watch?v=rmvDxxNubIg) talk and the concept of **context rot** in AI coding agents.
 
 ```
-🧠 ████░░░░│░░░░░│░░░░░ smart 36% left ◆ 3 checkpoints
+🧠 ████░░░░│░░░░░│░░░░░ smart 36% left
 ```
 
 ## Install
