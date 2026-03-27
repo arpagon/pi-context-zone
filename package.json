@@ -1,6 +1,6 @@
 {
   "name": "pi-context-zone",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Visual context health bar for the Pi coding agent — see your smart/warm/dumb zone at a glance",
   "license": "MIT",
   "author": "arpagon",
